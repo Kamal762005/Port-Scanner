@@ -14,5 +14,6 @@ python3 advaanced_scanning.py -H <local_ip> -P <port_numbers>
 replace <local_ip> with your ip address
 <br>
 replace <port_numbers> with open or closed ports.<br>
+
 ### output:
 ![image](https://github.com/user-attachments/assets/170d9f4d-2cc4-419f-ba51-1a14be103e31)
