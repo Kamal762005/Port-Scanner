@@ -3,7 +3,10 @@ Port Scanner is a multi-threaded port scanner that scans specied ports on a tar
 
 ## To check the open ports in your local host:
   ```bash
-    netstat -ano
-
+  netstat -ano
+  ```
 run this command in your command prompt to check the localhost address with open ports.
 ## to run the advaanced_scanning.py file
+```bash
+python3 advaanced_scanning.py -H <local_ip> -P <port_numbers>
+```
