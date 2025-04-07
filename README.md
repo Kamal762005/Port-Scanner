@@ -10,5 +10,9 @@ run this command in your command prompt to check the localhost address with open
 ```bash
 python3 advaanced_scanning.py -H <local_ip> -P <port_numbers>
 ```
+<br>
+replace <local_ip> with your ip address
+<br>
+replace <port_numbers> with open or closed ports.
 ### output:
-![image](https://github.com/user-attachments/assets/6c4db8c7-ef96-4dfc-99c0-bded25010c5a)
+![image](https://github.com/user-attachments/assets/170d9f4d-2cc4-419f-ba51-1a14be103e31)
